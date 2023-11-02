@@ -1,0 +1,92 @@
+[
+  {
+    "Publisher": "Penguin Books",
+    "AuthorLastName": "Orwell",
+    "AuthorFirstName": "George",
+    "Title": "1984",
+    "Price": 14.99,
+    "YearOfPublication": 1949,
+    "FootNotes": "A dystopian novel that explores themes of totalitarianism, censorship, and surveillance."
+  },
+  {
+    "Publisher": "HarperCollins",
+    "AuthorLastName": "Tolkien",
+    "AuthorFirstName": "J.R.R.",
+    "Title": "The Lord of the Rings",
+    "Price": 29.99,
+    "YearOfPublication": 1954,
+    "FootNotes": "An epic high-fantasy trilogy filled with adventure, magic, and a quest to destroy a powerful ring."
+  },
+  {
+    "Publisher": "Random House",
+    "AuthorLastName": "Rowling",
+    "AuthorFirstName": "J.K.",
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Price": 12.99,
+    "YearOfPublication": 1997,
+    "FootNotes": "The start of the beloved series about a young wizard's adventures at Hogwarts School of Witchcraft and Wizardry."
+  },
+  {
+    "Publisher": "Vintage",
+    "AuthorLastName": "Austen",
+    "AuthorFirstName": "Jane",
+    "Title": "Pride and Prejudice",
+    "Price": 9.99,
+    "YearOfPublication": 1813,
+    "FootNotes": "A classic novel of manners and social dynamics in early 19th-century England."
+  },
+  {
+    "Publisher": "Houghton Mifflin",
+    "AuthorLastName": "Fitzgerald",
+    "AuthorFirstName": "F. Scott",
+    "Title": "The Great Gatsby",
+    "Price": 15.99,
+    "YearOfPublication": 1925,
+    "FootNotes": "A story of wealth, excess, and the American Dream in the Roaring Twenties."
+  },
+  {
+    "Publisher": "Vintage",
+    "AuthorLastName": "Kafka",
+    "AuthorFirstName": "Franz",
+    "Title": "The Metamorphosis",
+    "Price": 8.99,
+    "YearOfPublication": 1915,
+    "FootNotes": "A surreal tale of a man who wakes up as a giant insect and the absurdity of human existence."
+  },
+  {
+    "Publisher": "HarperCollins",
+    "AuthorLastName": "Lee",
+    "AuthorFirstName": "Harper",
+    "Title": "To Kill a Mockingbird",
+    "Price": 11.99,
+    "YearOfPublication": 1960,
+    "FootNotes": "A poignant exploration of racial injustice in the American South during the 1930s."
+  },
+  {
+    "Publisher": "Scholastic",
+    "AuthorLastName": "Collins",
+    "AuthorFirstName": "Suzanne",
+    "Title": "The Hunger Games",
+    "Price": 13.99,
+    "YearOfPublication": 2008,
+    "FootNotes": "A dystopian trilogy where teenagers fight to the death in a televised competition."
+  },
+  {
+    "Publisher": "Simon & Schuster",
+    "AuthorLastName": "Hemingway",
+    "AuthorFirstName": "Ernest",
+    "Title": "The Old Man and the Sea",
+    "Price": 7.99,
+    "YearOfPublication": 1952,
+    "FootNotes": "A novella about an old Cuban fisherman's epic battle with a giant marlin."
+  },
+  {
+    "Publisher": "Vintage",
+    "AuthorLastName": "Nabokov",
+    "AuthorFirstName": "Vladimir",
+    "Title": "Lolita",
+    "Price": 12.99,
+    "YearOfPublication": 1955,
+    "FootNotes": "A controversial novel narrated by a literature professor with a disturbing obsession."
+  }
+]

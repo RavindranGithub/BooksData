@@ -12,6 +12,7 @@ namespace BookData.Models
         public string AuthorFirstName { get; set; }
         public decimal Price { get; set; }
         public int YearOfPublication { get; set; }
+        public string FootNotes { get; set; }
         public string GetMLACitation()
         {
             return $"{AuthorLastName}, {AuthorFirstName}. {Title}. {Publisher}, {YearOfPublication}.";
@@ -19,7 +20,7 @@ namespace BookData.Models
         public string GetChicagoCitation()
         {
            
-            return $"{AuthorFirstName} {AuthorLastName}, {Title}, {Publisher}, {YearOfPublication}.";
+            return $"{AuthorFirstName} {AuthorLastName}, {Title}, {Publisher},{FootNotes}, {YearOfPublication}.";
         }
     }
 
